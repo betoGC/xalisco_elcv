@@ -1,5 +1,5 @@
 # Demo
-   ![Demo](./Output.gif)
+   ![Demo](./output.gif)
    
 # Installation Guide for Xalisco
 
