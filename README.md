@@ -1,3 +1,6 @@
+# Demo
+   ![Demo](./Output.gif)
+   
 # Installation Guide for Xalisco
 
 ## Linux
@@ -85,7 +88,5 @@
 4. Additionally, install the **X11** and **xinitd** libraries using the same procedure.  
    If dependencies are missing, check the official package repository for WSL, debian or Ubuntu search page:  
    [Cygwin Package Search](https://cygwin.com/cgi-bin2/package-grep.cgi?grep=build-e&arch=x86_64)
-
-   ![plot](./Panel-Image.png)
 
 6. Once all compilers and libraries are installed, obtain the Xalisco source code and follow the **Linux installation steps starting from step 5**.
