@@ -1,3 +1,5 @@
+![alt text](https://github.com/betoGC/xalisco_elcv/edit/main/Panel-Image.png)
+
 # Installation Guide for Xalisco
 
 ## Linux
