@@ -1,4 +1,4 @@
-![alt text](https://github.com/betoGC/xalisco_elcv/edit/main/Panel-Image.png?raw=true)
+![plot](./Panel-Image.png)
 
 # Installation Guide for Xalisco
 
